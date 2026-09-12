@@ -47,7 +47,7 @@ const CONFIG = {
     analysisStep: 3,
 
     /* Letras */
-    lyricWordDelay: 220,
+    lyricWordDelay: 180,
     lyricWordDuration: 280,
 
     /* Movimiento de letras */
